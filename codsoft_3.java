@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class StudentGradeCalculator{
+public class codsoft_3{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         System.out.print("enter the number of subjects");

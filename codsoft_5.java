@@ -78,7 +78,7 @@ class StudentManagementSystem {
         }
     }
 }
-public class StudentManagementApp {
+public class codsoft_5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         StudentManagementSystem sms = new StudentManagementSystem();

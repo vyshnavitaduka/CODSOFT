@@ -76,7 +76,8 @@ class ATM{
         account.withdraw(amount);
     }
 }
-public class ATMInterface{
+public class codsoft_2
+{
     public static void main(String args[]){
         BankAccount account=new BankAccount(1000.0);
         ATM atm=new ATM(account);
